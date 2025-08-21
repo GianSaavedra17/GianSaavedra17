@@ -13,8 +13,7 @@
     <p align="center">
 
     Mi nombre es **Gian Saavedra**  
-    ✨ Aquí puedes agregar más información sobre ti, por ejemplo tus intereses, qué tecnologías disfrutas usar o en qué proyectos trabajas.
-
+    
     </p>
   </div>
   </details>
