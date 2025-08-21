@@ -15,7 +15,7 @@
     Mi nombre es Gian Saavedra
     
 
-    </p>
+  
   </div>
   </details>
 
