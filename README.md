@@ -1,27 +1,34 @@
-<div align="center">
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7a0000&height=180&section=header&text=Gian%20Saavedra%20%7C%20Full%20Stack%20Developer&fontColor=ffffff&fontSize=36&animation=fadeIn)
 
-<!-- Pokeball superior -->
-<img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball" />
+<div align="center" style="background-color:#000000; padding: 25px; border-radius: 15px;">
 
-<details>
-<summary>-Presiona aquí-</summary>
-<div style="margin-top: -10px; text-align: center;">
+🌑 Acerca de mí
+Desarrollador full-stack con foco en **web, móvil e IA**. Me gusta crear soluciones limpias y performantes.
 
-  <details>
-  <summary>-Acerca de mí-</summary>
-  <div>
-    <p align="center">
+- 🚀 Mejorando en **IA & Mobile**
+- 🧩 Open-source lover
+- 🎯 Objetivo: **Arquitecto de Software**
 
-    Mi nombre es Gian Saavedra 
-    
-  
-  </div>
-  </details>
+---
 
-</div>
-</details>
+### 🛠️ Tecnologías
+**Lenguajes:** Python · C++ · Java · JavaScript  
+**Frontend:** HTML5 · CSS3 · React · Bootstrap  
+**Backend:** Node.js · Express · Flask  
+**DB:** MySQL · PostgreSQL · MongoDB  
+**Mobile:** Dart · Flutter · Kotlin  
+**DevOps:** Docker · Git · Heroku
 
-<!-- Pokeball inferior -->
-<img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball" />
+---
+
+### 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical&bg_color=000000&title_color=ff0000&text_color=ffffff)
+
+---
+
+### 🌍 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 
 </div>
