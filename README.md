@@ -12,9 +12,9 @@
   <div>
     <p align="center">
 
-    Mi nombre es **Gian Saavedra**  
+    Mi nombre es Gian Saavedra 
     
-    </p>
+  
   </div>
   </details>
 
