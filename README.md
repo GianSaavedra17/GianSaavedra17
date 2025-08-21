@@ -5,34 +5,15 @@
 
 <details>
 <summary>-Presiona aquí-</summary>
-<div align="center">
+<div style="margin-top: -10px; text-align: center;">
 
   <details>
   <summary>-Acerca de mí-</summary>
   <div>
     <p align="center">
 
-    Mi nombre es Gian Saavedra
-    
-
-  
-  </div>
-  </details>
-
-  <details>
-  <summary>-Tools-</summary>
-  <div>
-    <p style="display: inline-block;" align="center">
-
-    <kbd>
-      <kbd>Programming Languages</kbd><br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    </kbd>
-
-    <!-- Aquí agregas el resto de tus íconos -->
+    Mi nombre es **Gian Saavedra**  
+    ✨ Aquí puedes agregar más información sobre ti, por ejemplo tus intereses, qué tecnologías disfrutas usar o en qué proyectos trabajas.
 
     </p>
   </div>
