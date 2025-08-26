@@ -2,12 +2,16 @@
 
 <div align="center" style="background-color:#000000; padding: 25px; border-radius: 15px;">
 
-🌑 Acerca de mí
-Desarrollador full-stack con foco en **web, móvil e IA**. Me gusta crear soluciones limpias y performantes.
+🌑 Acerca de mí  
+Hola, soy **Gian Saavedra**, un desarrollador web en proceso de especialización, con una base sólida en **HTML** y **CSS**, tecnologías que me han permitido comprender los fundamentos del diseño y estructura de sitios web modernos.
 
-- 🚀 Mejorando en **IA & Mobile**
-- 🧩 Open-source lover
-- 🎯 Objetivo: **Arquitecto de Software**
+Mi enfoque actual está en dominar el desarrollo **frontend**, creando interfaces limpias, accesibles y responsivas. Me interesa no solo escribir código, sino entender cómo ofrecer buenas experiencias de usuario y soluciones funcionales.
+
+Estoy comprometido con el aprendizaje constante, explorando nuevas herramientas y lenguajes que complementen mi perfil y me acerquen a convertirme en un desarrollador **full-stack**. Mi mentalidad es de crecimiento: cada proyecto y cada error son una oportunidad para mejorar.
+
+- 🚀 En proceso de profundizar mis conocimientos en JavaScript y frameworks modernos  
+- 🧠 Apasionado por la tecnología, la resolución de problemas y el aprendizaje autodidacta  
+- 🎯 Objetivo a mediano plazo: dominar tanto frontend como backend  
 
 ---
 
