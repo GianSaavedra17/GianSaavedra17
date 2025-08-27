@@ -1,17 +1,16 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7a0000&height=180&section=header&text=Gian%20Saavedra%20%7C%20Frontend%20Developer&fontColor=ffffff&fontSize=36&animation=fadeIn)
 
-<div align="center" style="background-color:#000000; padding: 25px; border-radius: 15px; max-width: 700px; margin: auto;">
+<div align="center" style="background-color:#000000; padding: 25px; border-radius: 15px; max-width: 700px; margin: auto; color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-🌑 Acerca de mí  
-Hola, soy **Gian Saavedra**, un desarrollador web en proceso de especialización, con una base sólida en **HTML** y **CSS**, tecnologías que me han permitido comprender los fundamentos del diseño y estructura de sitios web modernos.
+### 🌑 Acerca de mí
 
-Mi enfoque actual está en dominar el desarrollo **frontend**, creando interfaces limpias, accesibles y responsivas. Me interesa no solo escribir código, sino entender cómo ofrecer buenas experiencias de usuario y soluciones funcionales.
+👋 ¡Hola! Soy **Gian Saavedra**, un desarrollador web en proceso de especialización con una sólida base en **HTML** y **CSS**, que me ha permitido comprender los fundamentos del diseño y la estructura de sitios web modernos.
 
-Estoy comprometido con el aprendizaje constante, explorando nuevas herramientas y lenguajes que complementen mi perfil y me acerquen a convertirme en un desarrollador **full-stack**. Mi mentalidad es de crecimiento: cada proyecto y cada error son una oportunidad para mejorar.
+🎯 Mi objetivo principal es dominar el desarrollo **frontend**, creando interfaces limpias, accesibles y responsivas que brindan excelentes experiencias de usuario.
 
-- 🚀 En proceso de profundizar mis conocimientos en JavaScript y frameworks modernos  
-- 🧠 Apasionado por la tecnología, la resolución de problemas y el aprendizaje autodidacta  
-- 🎯 Objetivo a mediano plazo: dominar tanto frontend como backend  
+🚀 Estoy comprometido con el aprendizaje constante, explorando nuevas herramientas y lenguajes para complementar mi perfil y avanzar hacia ser un desarrollador **full-stack**.
+
+🧠 Mi mentalidad es de crecimiento: cada proyecto y cada error son oportunidades para mejorar y seguir creciendo profesionalmente.
 
 ---
 
