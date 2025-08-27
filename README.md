@@ -25,14 +25,21 @@ Estoy comprometido con el aprendizaje constante, explorando nuevas herramientas 
 
 ---
 
+### 📜 Certificaciones
+- **Curso Conéctate** – Instituto Superior de Comercio, Valparaíso  
+- **Curso de Robótica** – Universidad Técnica Federico Santa María, Viña del Mar  
+- **Curso de Java** – DUOC UC, Casa Central Valparaíso  
+
+---
+
 ### 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000)
+![Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical&bg_color=000000&title_color=ff0000&text_color=ffffff)
 
 ---
 
 ### 🌍 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 
 </div>
