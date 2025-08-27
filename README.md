@@ -16,12 +16,12 @@ Estoy comprometido con el aprendizaje constante, explorando nuevas herramientas 
 ---
 
 ### 🛠️ Tecnologías
-**Lenguajes:** Python · C++ · Java · JavaScript  
-**Frontend:** HTML5 · CSS3 · React · Bootstrap  
-**Backend:** Node.js · Express · Flask  
-**DB:** MySQL · PostgreSQL · MongoDB  
-**Mobile:** Dart · Flutter · Kotlin  
-**DevOps:** Docker · Git · Heroku
+
+**Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20" /> ·  
+**HTML** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20" /> ·  
+**Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20" /> ·  
+**CSS** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20" /> ·  
+**SQL** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20" />
 
 ---
 
